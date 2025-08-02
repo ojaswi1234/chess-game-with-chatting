@@ -52,9 +52,9 @@ All contributors must add their name and GitHub profile below:
 
 ```bash
 # Clone the repo
-git clone https://github.com/ojaswi1234/chess-chat.git
+git clone https://github.com/ojaswi1234/chess-game-with-chatting.git
 
-cd chess-chat/server
+cd chess-game-with-chatting
 
 # Install dependencies
 npm install
