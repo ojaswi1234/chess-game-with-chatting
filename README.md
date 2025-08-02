@@ -18,7 +18,7 @@ This is ideal for beginners looking to gain real project experience with GitHub 
 
 ## 📊 Tech Stack
 
-* **Frontend**: HTML/CSS/JavaScript *(React optional upgrade)*
+* **Frontend**: HTML/CSS/JavaScript/EJS *(React optional upgrade)*
 * **Backend**: Node.js, Express
 * **Real-time**: Socket.IO (WebSocket abstraction)
 * **Version Control**: Git & GitHub
