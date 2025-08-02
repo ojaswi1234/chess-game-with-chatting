@@ -52,7 +52,7 @@ All contributors must add their name and GitHub profile below:
 
 ```bash
 # Clone the repo
-git clone https://github.com/yourusername/chess-chat.git
+git clone https://github.com/ojaswi1234/chess-chat.git
 
 cd chess-chat/server
 
@@ -63,7 +63,7 @@ npm install
 npm start 
 ```
 
-Frontend setup instructions will be added as we build.
+Backend setup instructions will be added as we build.
 
 ---
 
