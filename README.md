@@ -25,16 +25,6 @@ This is ideal for beginners looking to gain real project experience with GitHub 
 
 ---
 
-## 📁 Folder Structure (will evolve)
-
-```
-/client         --> Frontend UI (chessboard + chat)
-/server         --> Backend with WebSocket handling
-README.md       --> You're here
-```
-
----
-
 ## 🙋‍♂️ Contributors
 
 All contributors must add their name and GitHub profile below:
@@ -70,7 +60,7 @@ cd chess-chat/server
 npm install
 
 # Start server
-node index.js
+npm start 
 ```
 
 Frontend setup instructions will be added as we build.
