@@ -1,19 +1,16 @@
-<table>
- <thead>
-   <tr>Name</tr>
-  <tr>Profile Link</tr>
-  <tr>Motto</tr>
- </thead>
- <tbody></tbody>
- <tr>
-  <td>Ojaswi Bhardwaj (Lead) </td>
-  <td>
- (Ojaswi's profile)[www.github.com/ojaswi1234]
-   </td>
-  <td>
- "First start, then think to excel" (Write you motto, like this)
-   </td>
-  </tr>
- </tbody>
+<table border="1">
+  <thead>
+    <tr>
+      <th>Name</th>
+      <th>Profile Link</th>
+      <th>Motto</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>Ojaswi Bhardwaj (Lead)</td>
+      <td><a href="https://www.github.com/ojaswi1234" target="_blank">Ojaswi's profile</a></td>
+      <td>"First start, then think to excel" (Write your motto, like this)</td>
+    </tr>
+  </tbody>
 </table>
-
