@@ -15,4 +15,8 @@
     </tr>
     <!-- Add below this line -->
   </tbody>
+<<<<<<< HEAD
 </table>
+=======
+</table>
+>>>>>>> 8a0965388d20593af68af4d2b2384c9be69a0784
