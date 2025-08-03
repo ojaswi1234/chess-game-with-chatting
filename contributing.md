@@ -15,8 +15,7 @@
     </tr>
     <!-- Add below this line -->
   </tbody>
-<<<<<<< HEAD
+
 </table>
-=======
-</table>
+
 
