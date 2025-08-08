@@ -69,6 +69,6 @@ Backend setup instructions will be added as we build.
 
 ## 📢 Invitation
 
-This is a collaborative learning project. If you’re invited and interested, reply **"ready"** and you’ll get the GitHub link to start contributing.
+This is a collaborative learning project.
 
 Let's build something useful and level up together ✨
